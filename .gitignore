@@ -1,0 +1,5 @@
+__pycache__/
+ddb/
+venv/
+bot.py
+token.txt
